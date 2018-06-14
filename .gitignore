@@ -105,3 +105,6 @@ data/config/user.config
 
 **/Temporary/
 !**ThirdParty/**/*.*
+*.idb
+*.tlog
+*.lastbuildstate
